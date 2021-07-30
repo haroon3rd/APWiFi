@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python3 /usr/lib/raspiwifi/reset_device/connection_monitor.py &
